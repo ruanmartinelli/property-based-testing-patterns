@@ -1,0 +1,24 @@
+{
+  "name": "property-based-testing-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ruan <martinelliruan@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "test": "jest -i --forceExit"
+  },
+  "dependencies": {
+    "fast-check": "^1.7.1",
+    "jest": "^23.6.0",
+    "got": "^9.3.2",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "node-fetch": "^2.3.0"
+  },
+  "jest": {
+    "verbose": true,
+    "notify": true,
+    "testRegex": ".\\.js$"
+  }
+}
