@@ -16,7 +16,7 @@ npm t
 
 ## Resources
 
-- [Notes on Property-based testing](https://www.ruanmartinelli.com/prop-based-testing/)
+- [Notes on Property-based testing](https://www.ruanmartinelli.com/notes-prop-based-testing/)
 - [An Introduction to Property-based testing](https://www.slideshare.net/ScottWlaschin/an-introduction-to-property-based-testing)
 
 ## License
