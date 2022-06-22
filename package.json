@@ -11,7 +11,7 @@
   "dependencies": {
     "fast-check": "^1.7.1",
     "jest": "^23.6.0",
-    "got": "^9.3.2",
+    "got": "^11.8.5",
     "jsonwebtoken": "^8.4.0",
     "lodash": "^4.17.11",
     "node-fetch": "^2.3.0"
